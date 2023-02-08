@@ -1,0 +1,20 @@
+1. Pegar distancia total da viagem = 240
+2. Kilometros por litro = 8
+3. Pegar preço da gasolina = 4,89
+4. Litros de gasolina que precisa para a distancia total = distancia da viagem  / kilometros por litro = 30 litros de gasolina
+5. Valor da viagem = litros de gasolina necessários * preço da gasolina = 146,7
+6. Mostrar na tela
+
+Pseudo Código
+
+distanciaTotalDaViagem = 240
+
+KiloPorLitro = 8
+
+PrecoDaGasolina = 4,89
+
+totalLitros = distanciaTotalDaViagem / KiloPorLitro
+
+valorDaViagem = PrecoDaGasolina * totalLitros
+
+mostrarNaTela(valorDaViagem)
